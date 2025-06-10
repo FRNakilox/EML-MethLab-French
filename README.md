@@ -1,6 +1,6 @@
 📰 Garry's Mod Enhanced Meth Lab — Reuploaded
 
-⭐ POURQUOI REPUBLIER ? Parce que cet addon est excellent pour les serveurs FunRP et DarkRP, et qu'il n'était pas disponible en français ! J'ai décidé de le remettre en en n'avant et de le traduire pour que plus de joueurs puissent en profiter. C'est un de ces addons classiques qui fonctionne parfaitement, simple et efficace, et c'est dommage qu'il ait été mis de côté. Maintenant, il est accessible à tous, avec la traduction en prime !
+⭐ POURQUOI REPUBLIER ? Parce que cet addon est excellent pour les serveurs FunRP et DarkRP, et qu'il n'était pas disponible en français ! J'ai décidé de le remettre en n'avant et de le traduire pour que plus de joueurs puissent en profiter. C'est un de ces addons classiques qui fonctionne parfaitement, simple et efficace, et c'est dommage qu'il ait été mis de côté. Maintenant, il est accessible à tous, avec la traduction en prime !
 
 📃 Vous aurez besoin de : DarkRP
 
